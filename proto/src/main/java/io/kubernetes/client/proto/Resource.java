@@ -12,8 +12,10 @@ limitations under the License.
 */
 package io.kubernetes.client.proto;
 
-public final class Resource {
+public final class Res
+  ource {
   private Resource() {}
+  
 
   public static void registerAllExtensions(com.google.protobuf.ExtensionRegistryLite registry) {}
 
