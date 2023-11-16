@@ -7,7 +7,8 @@ and [KubernetesListObject](https://github.com/kubernetes-client/java/blob/master
 
 ## Remote Generate via Github Action
 
-### 1. Fork Upstream Repo
+### 1. Fork Upstream 
+Repo
 
 Fork the repository [kubernetes-client/java](https://github.com/kubernetes-client/java)
 so that you can run the github action ["CRD Java Model Generate"](/.github/workflows/generate-crd.yml)
